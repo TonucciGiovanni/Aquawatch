@@ -70,7 +70,7 @@ and manufacturing sensor networks.
 
 ## Project Structure
 AquaWatch/
-├── App.tsx                      # Entry point — NavigationContainer + SafeAreaProvider
+├── App.tsx                  # Entry point — NavigationContainer + SafeAreaProvider
 └── src/
 ├── types.ts                 # Sensor and Alert TypeScript interfaces
 ├── theme/
